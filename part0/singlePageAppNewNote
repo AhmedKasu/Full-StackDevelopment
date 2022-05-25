@@ -1,0 +1,3 @@
+title Single page app new note
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server->browser: 201 created (application/json; charset=utf-8)
